@@ -11,3 +11,5 @@ Trong CNTT và KHMT:
 Được biểu diễn trên mặt phẳng tọa độ 2 chiều Oxy
 ### Vector 3 chiều:
 Được biểu diễn trên hệ tọa độ không gian 3 chiều Oxyz
+### Vector n chiều:
+- Về lý thuyết, vector có thể mở rộng lên vô hạn chiều, nhưng con người chúng ta chỉ hình dung được 
