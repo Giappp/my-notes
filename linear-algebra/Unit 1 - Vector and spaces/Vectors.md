@@ -5,14 +5,14 @@ Trong CNTT và KHMT:
 ### Ví dụ về Vector trong thực tế
 - Vận tốc: biểu diễn tốc độ và hướng 
 ## 2. Biểu diễn vector
-### Vector 1 chiều:
+#### Vector 1 chiều:
 Được biểu diễn thành 1 trục trên trục số (e.g. Ox, Oy, Oz)
-### Vector 2 chiều:
+#### Vector 2 chiều:
 Được biểu diễn trên mặt phẳng tọa độ 2 chiều Oxy
-### Vector 3 chiều:
+#### Vector 3 chiều:
 Được biểu diễn trên hệ tọa độ không gian 3 chiều Oxyz
-### Vector n chiều:
-Về lý thuyết, vector có thể mở rộng lên vô hạn chiều, nhưng con người chúng ta chỉ hình dung được không gian 3 chiều. Nên việc biểu diễn 1 vector n-chiều dưới dạng hình học là không khả thi.
+#### Vector n chiều:
+Về lý thuyết, vector có thể mở rộng lên vô hạn chiều, nhưng con người chúng ta chỉ hình dung được không gian 3 chiều. Nên việc biểu diễn 1 vector n-chiều dưới dạng hình học sẽ rất khó hiểu
 Với n > 3 chiều, chúng ta thường biểu diễn theo 3 dạng chính:
 - Biểu diễn đại số (Algebra Representation): Một vector n chiều $x \in R^n$ được biểu diễn thành 1 bộ số có n phần tử có thứ tự:
 $$
@@ -21,11 +21,10 @@ $$
 
 - Biểu diễn trong máy tính: Đơn giản chỉ là 1 mảng 1 chiều chứa n phần tử
 - Biểu diễn hình học qua phép chiếu - giảm chiều dữ liệu (PCA)
-### Không gian số thực
+#### Không gian số thực
 Trong các tài liệu toán học, ta thường thấy kí hiệu: $\mathbb{R}, \mathbb{R^2}, \mathbb{R^n}$ . Bản chất kí hiệu này mô tả vector đó chứa bao nhiêu bộ số thực.
 VD: $\mathbb{R^2}$ là bộ số chứa 2 số thực: $x1 \in R \quad \text{và} \quad x2 \in R$ 
-
-##3. Các phép toán với Vector
+## 3. Các phép toán với Vector
 #### Cộng 2 vector
 Cho 2 vector $a,b \in \mathbb{R^n}$, cộng 2 vector là cộng các phần tử ở vị trí tương ứng với nhau.
 $$
