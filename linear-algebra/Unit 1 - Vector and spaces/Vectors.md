@@ -21,3 +21,5 @@ $$
 
 - Biểu diễn trong máy tính: Đơn giản chỉ là 1 mảng 1 chiều chứa n phần tử
 - Biểu diễn hình học qua phép chiếu - giảm chiều dữ liệu (PCA)
+## Không gian số thực
+Trong các tài liệu toán học, ta thường thấy kí hiệu: $R^1, R^2, R^n$ 
