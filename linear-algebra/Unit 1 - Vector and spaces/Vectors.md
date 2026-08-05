@@ -20,4 +20,4 @@ x = (x_1, x_2, x_3, ..., x_n) \quad \text{hoặc dạng cột} \quad x = \begin{
 $$
 
 - Biểu diễn trong máy tính: Đơn giản chỉ là 1 mảng 1 chiều chứa n phần tử
-- Biểu diễn hình học qua phép chiếu - giảm chiều dữ liệu (PCA): 
+- Biểu diễn hình học qua phép chiếu - giảm chiều dữ liệu (PCA)
