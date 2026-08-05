@@ -23,7 +23,7 @@ $$
 - Biểu diễn hình học qua phép chiếu - giảm chiều dữ liệu (PCA)
 #### Không gian số thực
 Trong các tài liệu toán học, ta thường thấy kí hiệu: $\mathbb{R}, \mathbb{R^2}, \mathbb{R^n}$ . Bản chất kí hiệu này mô tả vector đó chứa bao nhiêu bộ số thực.
-VD: $\mathbb{R^2}$ là bộ số chứa 2 số thực: $x1 \in R \quad \text{và} \quad x2 \in R$ 
+VD: vector $\overrightarrow{x}(x_1,x_2)} \in \mathbb{R^2}$ là bộ số chứa 2 số thực: $x1 \in R \quad \text{và} \quad x2 \in R$ 
 ## 3. Các phép toán với Vector
 #### Cộng 2 vector
 Cho 2 vector $a,b \in \mathbb{R^n}$, cộng 2 vector là cộng các phần tử ở vị trí tương ứng với nhau.
