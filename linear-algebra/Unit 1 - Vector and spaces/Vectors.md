@@ -12,4 +12,4 @@ Trong CNTT và KHMT:
 ### Vector 3 chiều:
 Được biểu diễn trên hệ tọa độ không gian 3 chiều Oxyz
 ### Vector n chiều:
-- Về lý thuyết, vector có thể mở rộng lên vô hạn chiều, nhưng con người chúng ta chỉ hình dung được 
+- Về lý thuyết, vector có thể mở rộng lên vô hạn chiều, nhưng con người chúng ta chỉ hình dung được không gian 3 chiều. Nên việc biểu diễn 1 vector n-chiều là không khả thi
