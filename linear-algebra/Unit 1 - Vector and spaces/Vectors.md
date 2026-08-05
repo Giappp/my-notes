@@ -31,5 +31,6 @@ $$
 $$
 Tính chất:
 $$
-\overrightarrow{a} + \overrightarrow{b} = 
+\overrightarrow{a} + \overrightarrow{b} = \overrightarrow{b} + \overrightarrow{a}
 $$
+#### Nhân vector với 1 số (Scalar)
