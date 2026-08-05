@@ -43,4 +43,5 @@ $$
 Giả sử ta muốn xem 1 vector dài bao xa (bao nhiêu đơn vị) so với trục Ox, cao bao nhiêu đơn vị so với trục Oy. Lúc này ta cần một đơn vị đo chuẩn để làm việc đó => Vector đơn vị ra đời.
 #### Định nghĩa
 Vector đơn vị là vector chỉ đi về 1 hướng và có độ dài bằng 1
-Theo định nghĩa, không gian có 
+Theo định nghĩa, không gian có bao nhiêu chiều thì tương ứng có bấy nhiêu vector đơn vị
+Kí hiệu: $\hat{i} = \begin$ 
