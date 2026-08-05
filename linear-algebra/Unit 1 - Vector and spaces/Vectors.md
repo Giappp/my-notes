@@ -16,5 +16,6 @@ Trong CNTT và KHMT:
 - Với n > 3 chiều, chúng ta thường biểu diễn theo 3 dạng chính:
 	- Biểu diễn đại số (Algebra Representation): Một vector n chiều $x \in R^n$ được biểu diễn thành 1 bộ số có n phần tử có thứ tự:
 $$
-x = (x_1, x_2, x_3, ..., x_n) \quad \text{hoặc dạng cột} \quad $$\mathbf{x} = (x_1, x_2, x_3, \dots, x_n) \quad \text{hoặc dạng cột} \quad \mathbf{x} = \begin{bmatrix} x_1 \\ x_2 \\ \vdots \\ x_n \end{bmatrix}$$
+x = (x_1, x_2, x_3, ..., x_n) \quad \text{hoặc dạng cột} \quad x = \begin{bmatrix} x_1 \\ x_2 \\ \vdots \\ x_n \end{bmatrix}
 $$
+	- Biểu diễn trong máy tính: Đơn giản chỉ là 1 mảng 1 chiều chứa n p
