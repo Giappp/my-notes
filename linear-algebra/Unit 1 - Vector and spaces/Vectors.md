@@ -29,3 +29,7 @@ Cho 2 vector $a,b \in \mathbb{R^n}$, cộng 2 vector là cộng các phần tử
 $$
 (a+b)_i = \sum_{i=0}^{n} a_i + b_i
 $$
+Tính chất:
+$$
+\overrightarrow{a} + \overrightarrow{b} = 
+$$
