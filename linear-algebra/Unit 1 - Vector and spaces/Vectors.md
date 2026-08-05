@@ -36,5 +36,5 @@ $$
 #### Nhân vector với 1 số (Scalar)
 Nhân vector với 1 số n được hiểu là kéo độ dài của vector lên n lần, Nên:
 $$
-n \overrightarrow{a(x,y)} = 
+n \overrightarrow{a(x,y)} = (n*x,n*y) 
 $$
