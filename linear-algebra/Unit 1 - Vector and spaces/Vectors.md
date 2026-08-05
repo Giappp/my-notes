@@ -39,3 +39,5 @@ Nhân vector với 1 số n được hiểu là kéo độ dài của vector lê
 $$
 n \overrightarrow{a(x,y)} = (n*x,n*y) 
 $$
+## 4. Vector đơn vị
+Giả sử ta muốn xem 1 vector dài bao xa (bao nhiêu đơn vị) so với trục Ox, cao bao nhiêu đơn vị so với trục Oy. Lúc này ta 
