@@ -27,5 +27,5 @@ Trong các tài liệu toán học, ta thường thấy kí hiệu: $\mathbb{R},
 #### Cộng 2 vector
 Cho 2 vector $a,b \in \mathbb{R^n}$, cộng 2 vector là cộng các phần tử ở vị trí tương ứng với nhau.
 $$
-(\mathbf(a+b))
+(a+b)_i = \sum_{i=0}^{n} a_i + b_i
 $$
