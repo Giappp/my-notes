@@ -49,4 +49,4 @@ $\hat{i} = \begin{bmatrix} 1 \\ 0 \end{bmatrix}$ là vector đơn vị theo tr�
 $\hat{j} = \begin{bmatrix} 0 \\ 1 \end{bmatrix}$ là vector đơn vị theo trục x
 Một vector $\overrightarrow{v} = (x,y)$ sẽ được biểu diễn thành: $\overrightarrow{v} = x\hat{i} + y\hat{j}$
 ## 5. Tham số hóa biểu diễn đường thẳng
-Giả sử ta có vector $\overrightarrow{v} = (2,1)$. Với $S = \{ c\overrightarrow{v} \double | \double c \in R \}$. 
+Giả sử ta có vector $\overrightarrow{v} = (2,1)$. Với $S = \{ c\overrightarrow{v} \quad | \quad c \in R \}$. Ta sẽ được 1 đường thẳng đi qua vector $\overrightarrow{v}$
