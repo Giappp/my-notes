@@ -41,3 +41,4 @@ n \overrightarrow{a(x,y)} = (n*x,n*y)
 $$
 ## 4. Vector đơn vị
 Giả sử ta muốn xem 1 vector dài bao xa (bao nhiêu đơn vị) so với trục Ox, cao bao nhiêu đơn vị so với trục Oy. Lúc này ta cần một đơn vị đo chuẩn để làm việc đó => Vector đơn vị ra đời.
+####
