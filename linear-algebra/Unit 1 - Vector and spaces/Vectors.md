@@ -34,4 +34,7 @@ $$
 \overrightarrow{a} + \overrightarrow{b} = \overrightarrow{b} + \overrightarrow{a}
 $$
 #### Nhân vector với 1 số (Scalar)
-Nhân vector với 1 số được hiểu là kéo dài các 
+Nhân vector với 1 số n được hiểu là kéo độ dài của vector lên n lần, Nên:
+$$
+n \multiple
+$$
