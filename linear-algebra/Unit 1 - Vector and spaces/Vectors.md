@@ -41,5 +41,6 @@ n \overrightarrow{a(x,y)} = (n*x,n*y)
 $$
 ## 4. Vector đơn vị
 Giả sử ta muốn xem 1 vector dài bao xa (bao nhiêu đơn vị) so với trục Ox, cao bao nhiêu đơn vị so với trục Oy. Lúc này ta cần một đơn vị đo chuẩn để làm việc đó => Vector đơn vị ra đời.
-#### 4.1 Định nghĩa
+#### Định nghĩa
 Vector đơn vị là vector chỉ đi về 1 hướng và có độ dài bằng 1
+Theo định nghĩa, không gian có 
