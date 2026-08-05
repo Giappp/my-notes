@@ -12,10 +12,12 @@ Trong CNTT và KHMT:
 ### Vector 3 chiều:
 Được biểu diễn trên hệ tọa độ không gian 3 chiều Oxyz
 ### Vector n chiều:
-- Về lý thuyết, vector có thể mở rộng lên vô hạn chiều, nhưng con người chúng ta chỉ hình dung được không gian 3 chiều. Nên việc biểu diễn 1 vector n-chiều dưới dạng hình học là không khả thi.
-- Với n > 3 chiều, chúng ta thường biểu diễn theo 3 dạng chính:
-	- Biểu diễn đại số (Algebra Representation): Một vector n chiều $x \in R^n$ được biểu diễn thành 1 bộ số có n phần tử có thứ tự:
+Về lý thuyết, vector có thể mở rộng lên vô hạn chiều, nhưng con người chúng ta chỉ hình dung được không gian 3 chiều. Nên việc biểu diễn 1 vector n-chiều dưới dạng hình học là không khả thi.
+Với n > 3 chiều, chúng ta thường biểu diễn theo 3 dạng chính:
+- Biểu diễn đại số (Algebra Representation): Một vector n chiều $x \in R^n$ được biểu diễn thành 1 bộ số có n phần tử có thứ tự:
 $$
 x = (x_1, x_2, x_3, ..., x_n) \quad \text{hoặc dạng cột} \quad x = \begin{bmatrix} x_1 \\ x_2 \\ \vdots \\ x_n \end{bmatrix}
 $$
-	- Biểu diễn trong máy tính: Đơn giản chỉ là 1 mảng 1 chiều chứa n p
+
+- Biểu diễn trong máy tính: Đơn giản chỉ là 1 mảng 1 chiều chứa n phần tử
+- Biểu diễn hình học qua phép chiếu - giảm chiều dữ liệu (PCA): 
