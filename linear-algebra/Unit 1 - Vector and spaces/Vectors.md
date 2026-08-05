@@ -4,3 +4,6 @@ Trong CNTT và KHMT:
 - Vector là mảng 1 chiều có thứ tự (Ordered Array): Biểu diễn/đại diện cho một chuỗi dữ liệu.
 ### Ví dụ về Vector trong thực tế
 - Vận tốc: biểu diễn tốc độ và hướng 
+## 2. Biểu diễn 1 vector
+### Vector 1 chiều:
+Được biểu diễn thành 1 trục trên trục số (e.g. Ox)
