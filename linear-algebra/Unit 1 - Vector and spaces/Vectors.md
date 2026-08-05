@@ -37,7 +37,7 @@ $$
 #### Nhân vector với 1 số (Scalar)
 Nhân vector với 1 số n được hiểu là kéo độ dài của vector lên n lần, Nên:
 $$
-n \overrightarrow{a(x,y)} = (n*x,n*y) 
+n\overrightarrow{a} = n(x,y)= (n*x,n*y) 
 $$
 ## 4. Vector đơn vị
 Giả sử ta muốn xem 1 vector dài bao xa (bao nhiêu đơn vị) so với trục Ox, cao bao nhiêu đơn vị so với trục Oy. Lúc này ta cần một đơn vị đo chuẩn để làm việc đó => Vector đơn vị ra đời.
@@ -47,5 +47,4 @@ Theo định nghĩa, không gian có bao nhiêu chiều thì tương ứng có b
 Kí hiệu: chữ cái thường với ký hiệu mũ, ví dụ:
 $\hat{i} = \begin{bmatrix} 1 \\ 0 \end{bmatrix}$ là vector đơn vị theo trục x
 $\hat{j} = \begin{bmatrix} 0 \\ 1 \end{bmatrix}$ là vector đơn vị theo trục x
-
-Một vector $\overrightarrow{v} = (x,y)$ sẽ được biểu diễn thành: $\overrightarrow{v} = x\hat{i} + y$
+Một vector $\overrightarrow{v} = (x,y)$ sẽ được biểu diễn thành: $\overrightarrow{v} = x\hat{i} + y\hat{j}$
