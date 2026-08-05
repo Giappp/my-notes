@@ -48,3 +48,4 @@ Kí hiệu: chữ cái thường với ký hiệu mũ, ví dụ:
 $\hat{i} = \begin{bmatrix} 1 \\ 0 \end{bmatrix}$ là vector đơn vị theo trục x
 $\hat{j} = \begin{bmatrix} 0 \\ 1 \end{bmatrix}$ là vector đơn vị theo trục x
 Một vector $\overrightarrow{v} = (x,y)$ sẽ được biểu diễn thành: $\overrightarrow{v} = x\hat{i} + y\hat{j}$
+## 5. Tham số hóa biểu diễn đường thẳng
