@@ -14,4 +14,7 @@ Trong CNTT và KHMT:
 ### Vector n chiều:
 - Về lý thuyết, vector có thể mở rộng lên vô hạn chiều, nhưng con người chúng ta chỉ hình dung được không gian 3 chiều. Nên việc biểu diễn 1 vector n-chiều dưới dạng hình học là không khả thi.
 - Với n > 3 chiều, chúng ta thường biểu diễn theo 3 dạng chính:
-	- Biểu diễn đại số (Algebra Representation): Một vector n chiều $x \in R^n$ được biểu diễn thành 1 bộ số
+	- Biểu diễn đại số (Algebra Representation): Một vector n chiều $x \in R^n$ được biểu diễn thành 1 bộ số có n phần tử có thứ tự:
+$$
+x = (x_1, x_2, x_3, ..., x_n) \text{hoặc dạng cột}
+$$
