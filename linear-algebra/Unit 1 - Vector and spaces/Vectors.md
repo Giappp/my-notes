@@ -44,4 +44,6 @@ Giả sử ta muốn xem 1 vector dài bao xa (bao nhiêu đơn vị) so với t
 #### Định nghĩa
 Vector đơn vị là vector chỉ đi về 1 hướng và có độ dài bằng 1
 Theo định nghĩa, không gian có bao nhiêu chiều thì tương ứng có bấy nhiêu vector đơn vị
-Kí hiệu: $\hat{i} = \begin$ 
+Kí hiệu: 
+$\hat{i} = \begin{bmatrix} 1 \\ 0 \end{bmatrix}$ là vector đơn vị theo trục x
+$\hat{j} = \begin{bmatrix} 1 \\ 0 \end{bmatrix}$ là vector đơn vị theo trục x
