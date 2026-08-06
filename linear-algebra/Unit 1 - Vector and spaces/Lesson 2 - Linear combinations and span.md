@@ -6,3 +6,7 @@ $$
 Trong không gian 2 chiều 2 vector $v_1$ và $v_2$ có thể tạo thành 1 đường thẳng hoặc 1 mặt phẳng. Nhưng vấn đề là làm sao để biết khi nào các vector tạo thành 1 đường thẳng, khi nào là cả mặt phẳng không gian Oxy ==> Span - Bao của ma trận
 ## Span là gì?
 Span - hay bao của 1 danh sách vector là một tập hợp mà khi ta lấy tổ hợp tuyến tính bất kì, vector được tạo thành vẫn thuộc tập hợp đó. Hiểu đơn giản là ta đi tìm hình dạng của không gian chứa tất cả các vector và scalar của chúng.
+Định nghĩa: Span là tập hợp tất cả các tổ hợp tuyến tính có thể tạo ra
+$$
+span(v1​,…,vk​)={c1​v1​+⋯+ck​vk​∣ci​∈R}
+$$
