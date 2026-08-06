@@ -51,4 +51,4 @@ Một vector $\overrightarrow{v} = (x,y)$ sẽ được biểu diễn thành: $\
 ## 5. Tham số hóa biểu diễn đường thẳng
 Giả sử ta có vector $\overrightarrow{v} = (2,1)$. Với $S = \{ c\overrightarrow{v} \quad | \quad c \in R \}$. Ta sẽ được 1 đường thẳng đi qua vector $\overrightarrow{v}$
 Tập $S = \{ c\overrightarrow{v} \quad | \quad c \in R \}$ được gọi là tập các vector cùng phương (collinear vectors).
-Nếu ta cộng 1 vector thuộc tập S với 1 vector $\overrightarrow$
+Nếu ta cộng 1 vector thuộc tập S với 1 vector x không cùng phương với v. Ta sẽ được 1 
