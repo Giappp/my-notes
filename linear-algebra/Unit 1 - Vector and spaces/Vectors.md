@@ -53,4 +53,4 @@ Giả sử ta có vector $\overrightarrow{v} = (2,1)$. Với $S = \{ c\overright
 Tập $S = \{ c\overrightarrow{v} \quad | \quad c \in R \}$ được gọi là tập các vector cùng phương (collinear vectors).
 Nếu ta cộng 1 vector thuộc tập S với 1 vector x không cùng phương với v. Ta sẽ được 1 đường thẳng song song với vector $\overrightarrow{v}$ .
 Tập $L = \{ \overrightarrow{x} + t \overrightarrow{v} \quad | \quad t \in R \}$ được gọi là tập các đường thẳng song song vơi vector v.
-Thay đổi góc nhìn, nếu ta 
+Thay đổi góc nhìn, nếu ta muốn tìm tọa độ của phần tử thuộc tập này ta có thể thay vector vào và tìm 
