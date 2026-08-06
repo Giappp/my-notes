@@ -56,4 +56,4 @@ Tập $L = \{ \overrightarrow{x} + t \overrightarrow{v} \quad | \quad t \in R \}
 Thay đổi góc nhìn, nếu ta muốn tìm tọa độ của phần tử thuộc tập này ta có thể thay vector như sau:
 x = x1 + t * v1
 y = x2 + t * v2
-Điều này cũng áp dụng với các chiều 
+Điều này cũng áp dụng với các chiều cao hơn (n > 3)
