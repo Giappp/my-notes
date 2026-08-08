@@ -8,7 +8,12 @@ Nói cách khác, phương trình trên có ít nhất một nghiệm không t�
 $$
 (c_1, c_2, \dots, c_n) \neq(0,\dots,0)
 $$
-
+### Trực giác
+Có ít nhất một vector trong tập có thể biểu diễn bởi các vector còn lại
+Ví dụ:
+$$
+v_1=(1,2), \quad v_2=(2,4)
+]
 ## 2. Linea independence
 Định nghĩa: Cho tập S = $\{ v_1, v_2, \dots, v_n \}$ được gọi là phụ thuộc tuyến tính iff:
 $$
