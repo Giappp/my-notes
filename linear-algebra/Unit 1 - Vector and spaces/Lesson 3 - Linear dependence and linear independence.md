@@ -24,4 +24,4 @@ chỉ có 1 nghiệm duy nhất (nghiệm tầm thường)
 ### Trực giác
 Không có vector nào trong tập có thể được biểu diễn bằng tổ hợp tuyến tính của các vector còn lại.
 Ví dụ:
-$v_1 = (1,0), \quad v_2 = (0,1)$. Nếu $c_1v_1 + c_2v_2 = 0$ thì $c_1 = c_2 = 0$. Do đó $\{ (1,0), (0,1)\}$
+$v_1 = (1,0), \quad v_2 = (0,1)$. Nếu $c_1v_1 + c_2v_2 = 0$ thì $c_1 = c_2 = 0$. Do đó $\{ (1,0), (0,1) \}$ là độp lập tuyến tính.
