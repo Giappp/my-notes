@@ -4,3 +4,4 @@ $$
 c_1v_1 + c_2v_2 + \dots + c_nv_n = 0
 $$
 có ít nhất 1 nghiệm khác 0.
+## 2. Linea independence
