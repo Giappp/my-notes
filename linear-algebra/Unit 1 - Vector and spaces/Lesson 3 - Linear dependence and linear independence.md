@@ -22,3 +22,6 @@ c_1v_1 + c_2v_2 + \dots + c_nv_n = 0
 $$
 chỉ có 1 nghiệm duy nhất (nghiệm tầm thường)
 ### Trực giác
+Không có vector nào trong tập có thể được biểu diễn bằng tổ hợp tuyến tính của các vector còn lại.
+Ví dụ:
+$v_1 = (1,0), \quad v_2 = (0,1)$ => không có cách nafo
