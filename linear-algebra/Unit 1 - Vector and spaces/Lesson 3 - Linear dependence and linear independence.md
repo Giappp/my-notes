@@ -16,8 +16,9 @@ v_1=(1,2), \quad v_2=(2,4)
 $$
 Vì $2v_1 - v_2 = 0$ nên $\{ v_1, v_2\}$ là phụ thuộc tuyến tính
 ## 2. Linea independence
-Định nghĩa: Cho tập S = $\{ v_1, v_2, \dots, v_n \}$ được gọi là phụ thuộc tuyến tính iff:
+Cho tập vector S = $\{ v_1, v_2, \dots, v_n \}$. (S) được gọi là độc lập tuyến tính nếu phương trình:
 $$
 c_1v_1 + c_2v_2 + \dots + c_nv_n = 0
 $$
 chỉ có 1 nghiệm duy nhất (nghiệm tầm thường)
+### Trực giác
