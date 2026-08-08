@@ -1,3 +1,4 @@
 ## 1. Subspaces - Không gian con
-S được gọi là một Không gian con là phần không gian thuộc $\mathbb{R^n}$ thỏa mãn:
-- $\overrightarrow(0) \in S$ 
+S được gọi là một không gian con của $\mathbb{R^n}$ nếu nó thỏa mãn thỏa mãn:
+- $\overrightarrow{0} \in S$ => Nó chứa vector 0
+- Với $x \in $
