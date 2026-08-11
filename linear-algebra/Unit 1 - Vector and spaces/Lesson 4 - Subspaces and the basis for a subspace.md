@@ -10,6 +10,7 @@ Subspace là một tập vector bên trong một vector space lớn hơn, nhưng
 $$
 \text{Span}(v_1, \dots, v_k) \text{ luôn là một subspace}
 $$
+---
 ## 2. Basis for a subspace
 Một tập vector: $B = \{v_1, v_2, \dots, v_k\}$ được gọi là cơ sở của không gian con (S) nếu thỏa mãn đồng thời:
 1. Span toàn bộ S: $\operatorname{Span}(B) = S$ 
@@ -19,5 +20,5 @@ Tức là từ các vector trong (B), có thể tạo ra mọi vector trong (S) 
 
 Cơ sở là một tập vector đủ để tạo ra toàn bộ subspace nhưng không chứa vector dư thừa
 $$
-\boxed{\}
+\boxed{\text{Basis} = \text{Span} + \text{Linear Independence}}
 $$
