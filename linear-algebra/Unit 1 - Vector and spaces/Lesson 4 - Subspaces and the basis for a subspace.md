@@ -10,3 +10,4 @@ Subspace là một tập vector bên trong một vector space lớn hơn, nhưng
 $$
 \text{Span}(v_1, \dots, v_k) \text{ luôn là một subspace}
 $$
+## 2. Basis for a subspace
