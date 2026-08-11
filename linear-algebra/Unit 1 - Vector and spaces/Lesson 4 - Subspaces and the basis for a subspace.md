@@ -11,3 +11,4 @@ $$
 \text{Span}(v_1, \dots, v_k) \text{ luôn là một subspace}
 $$
 ## 2. Basis for a subspace
+Cơ sở của 1 không gian con:
