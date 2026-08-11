@@ -14,4 +14,10 @@ $$
 Một tập vector: $B = \{v_1, v_2, \dots, v_k\}$ được gọi là cơ sở của không gian con (S) nếu thỏa mãn đồng thời:
 1. Span toàn bộ S: $\operatorname{Span}(B) = S$ 
 Tức là từ các vector trong (B), có thể tạo ra mọi vector trong (S) bằng linear combination
-2. Độc lập tuyến tính
+2. Độc lập tuyến tính: Tức là trong B không có vector dư thừa
+### Trực giác
+
+Cơ sở là một tập vector đủ để tạo ra toàn bộ subspace nhưng không chứa vector dư thừa
+$$
+\boxed{\}
+$$
