@@ -12,3 +12,6 @@ $$
 $$
 ## 2. Basis for a subspace
 Một tập vector: $B = \{v_1, v_2, \dots, v_k\}$ được gọi là cơ sở của không gian con (S) nếu thỏa mãn đồng thời:
+1. Span toàn bộ S: $\operatorname{Span}(B) = S$ 
+Tức là từ các vector trong (B), có thể tạo ra mọi vector trong (S) bằng linear combination
+2. Độc lập tuyến tính
