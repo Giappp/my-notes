@@ -11,4 +11,4 @@ $$
 \text{Span}(v_1, \dots, v_k) \text{ luôn là một subspace}
 $$
 ## 2. Basis for a subspace
-Cơ sở của 1 không gian con: Là một tập hợp các vector nhỏ nhất sao cho từ tập  hợp đó, ta có thể tạo ra mọi vector trong không gian con
+Một tập vector: $B = \{v_1, v_2, \dots, v_k\}$ được gọi là cơ sở của không gian con (S) nếu thỏa mãn đồng thời:
