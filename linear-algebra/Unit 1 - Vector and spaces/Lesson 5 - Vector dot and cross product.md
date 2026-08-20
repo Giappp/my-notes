@@ -5,4 +5,4 @@ a \cdot b = a_1b_1 + _2b_2 + \dots + a_nb_n
 $$
 Các tính chất:
 - Giao hoán: $(a \cdot b) \cdot c = a \cdot (b \cdot c)$ 
-- Kết hợp: $ ($
+- Kết hợp: $(a + b) \cdot c = a \cdot c + b \cdot c$ 
