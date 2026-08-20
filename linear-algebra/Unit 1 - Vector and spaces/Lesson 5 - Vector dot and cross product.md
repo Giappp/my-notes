@@ -27,4 +27,7 @@ $$
 Dấu "=" xảy ra khi 2 vector cùng phương
 
 ## 2. Defining the angle between vectors
-Cho 2 vector $\overrightarrow{a}, \overrightarrow{b} \in \mathbb{R}^n$, khác 0.
+Cho 2 vector $\overrightarrow{a}, \overrightarrow{b} \in \mathbb{R}^n$, khác 0. Góc giữa 2 vector được tính bằng:
+$$
+
+$
