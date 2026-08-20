@@ -23,3 +23,4 @@ $$
 $$
 |\overrightarrow{x} + \overrightarrow{y}| \le ||\overrightarrow{x}|| + ||\overrightarrow{y}||
 $$
+Dấu "=" xảy ra khi 2 vector cùng phương
