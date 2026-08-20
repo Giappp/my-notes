@@ -13,5 +13,9 @@ Các tính chất:
 - Kết hợp: $(a + b) \cdot c = a \cdot c + b \cdot c$
 Bất đẳng thức Cauchy - Schwarz:
 $$
-| \overrightarrow{x} \cdot \overrightarrow{y}| \le ||\overrightarrow{x}||
+| \overrightarrow{x} \cdot \overrightarrow{y}| \le ||\overrightarrow{x}|| \cdot ||\overrightarrow{y}||
+$$
+Dấu "=" xảy ra khi 2 vector cùng phương (collinear):
+$$
+\overrightarrow{x} = c
 $$
