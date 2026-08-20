@@ -29,5 +29,5 @@ Dấu "=" xảy ra khi 2 vector cùng phương
 ## 2. Defining the angle between vectors
 Cho 2 vector $\overrightarrow{a}, \overrightarrow{b} \in \mathbb{R}^n$, khác 0. Góc giữa 2 vector được tính bằng:
 $$
-\cos(\theta) = \frac{\vec{a} \cdot \vec{b}}{}
+\cos(\theta) = \frac{\vec{a} \cdot \vec{b}}{||\vec{a}|| \cdot ||\vec{b}||}
 $$
