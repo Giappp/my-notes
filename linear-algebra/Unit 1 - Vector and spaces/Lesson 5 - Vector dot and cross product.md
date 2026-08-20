@@ -9,5 +9,5 @@ a \cdot a = || a ||^2 = a_1^2 + a_2^2 + \dots + a_n^2
 $$
 
 Các tính chất:
-- Giao hoán: $(a \cdot b) \cdot c = a \cdot (b \cdot c)$ 
+- Giao hoán: $a \cdot b = b \cdot a$ 
 - Kết hợp: $(a + b) \cdot c = a \cdot c + b \cdot c$ 
