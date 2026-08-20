@@ -15,6 +15,7 @@ Các tính chất:
 $$
 \overrightarrow{x} \cdot \overrightarrow{y}  \le | \overrightarrow{x} \cdot \overrightarrow{y}| \le ||\overrightarrow{x}|| \cdot ||\overrightarrow{y}||
 $$
+Phát biểu: Giá trị tích vô hướng của 2 vector luôn bé hơn hoặc bằng tích độ dài 2 vector đó
 Dấu "=" xảy ra khi 2 vector cùng phương (collinear):
 $$
 \overrightarrow{x} = c \overrightarrow{y}
