@@ -3,6 +3,10 @@ cho vector $\overrightarrow{a} = \{a_1, a_2, \dots, a_n\}$, $\overrightarrow{b} 
 $$
 a \cdot b = a_1b_1 + _2b_2 + \dots + a_nb_n
 $$
+Nếu $a = b$ thì sao? Chúng ta sẽ có độ dài của vector:
+$$
+a \cdot a = a^2 = a_1^2 + a_2^2 + \dots + a_n 
+$$
 Các tính chất:
 - Giao hoán: $(a \cdot b) \cdot c = a \cdot (b \cdot c)$ 
 - Kết hợp: $(a + b) \cdot c = a \cdot c + b \cdot c$ 
