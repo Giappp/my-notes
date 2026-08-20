@@ -21,5 +21,5 @@ $$
 $$
 ### Bất đẳng thức tam giác
 $$
-
+|\overrightarrow{x} + \overrightarrow{y}| \le ||\overrightarrow{x}|| + ||\overrightarrow{y}||
 $$
