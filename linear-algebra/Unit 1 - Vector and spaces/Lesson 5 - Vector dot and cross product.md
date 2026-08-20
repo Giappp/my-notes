@@ -11,3 +11,4 @@ $$
 Các tính chất:
 - Giao hoán: $a \cdot b = b \cdot a$ 
 - Kết hợp: $(a + b) \cdot c = a \cdot c + b \cdot c$
+Bất đẳng thức C
