@@ -28,4 +28,3 @@ Dấu "=" xảy ra khi 2 vector cùng phương
 
 ## 2. Defining the angle between vectors
 Cho 2 vector $\overrightarrow{a}, \overrightarrow{b} \in \mathbb{R}^n$, khác 0.
-**Bổ đề 1:** 2 vector a và b luôn tạo thành 1 tam giác
