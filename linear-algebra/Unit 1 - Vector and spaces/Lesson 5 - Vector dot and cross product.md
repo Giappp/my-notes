@@ -25,3 +25,6 @@ $$
 |\overrightarrow{x} + \overrightarrow{y}| \le ||\overrightarrow{x}|| + ||\overrightarrow{y}||
 $$
 Dấu "=" xảy ra khi 2 vector cùng phương
+
+## 2. Defining the angle between vectors
+Cho 2 vector $\overritarrow{a}, \overrightarrow{b}$ 
