@@ -17,5 +17,5 @@ $$
 $$
 Dấu "=" xảy ra khi 2 vector cùng phương (collinear):
 $$
-\overrightarrow{x} = c
+\overrightarrow{x} = c \overrightarrow{y}
 $$
