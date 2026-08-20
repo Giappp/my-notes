@@ -3,3 +3,5 @@ cho vector $\overrightarrow{a} = \{a_1, a_2, \dots, a_n\}$, $\overrightarrow{b} 
 $$
 a \cdot b = a_1b_1 + _2b_2 + \dots + a_nb_n
 $$
+Các tính chất:
+- Giao hoán: $$
