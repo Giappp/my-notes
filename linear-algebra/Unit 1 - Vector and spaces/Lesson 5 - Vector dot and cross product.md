@@ -18,8 +18,9 @@ Các tính chất:
 - $(c \vec{a}) \cdot \vec{b} = c(\vec{a} \cdot \vec{b})$
 
 ### Bất đẳng thức Cauchy - Schwarz:
+Với $\vec{x}, \vec{y} \neq $ 
 $$
-\vec{x} \cdot \vec{y}  \le | \vec{x} \cdot \vec{y}| \le ||\vec{x}|| \cdot ||\vec{y}||
+| \vec{x} \cdot \vec{y}| \le ||\vec{x}|| \cdot ||\vec{y}||
 $$
 Phát biểu: Giá trị tích vô hướng của 2 vector luôn bé hơn hoặc bằng tích độ dài 2 vector đó
 Dấu "=" xảy ra khi 2 vector cùng phương (collinear):
