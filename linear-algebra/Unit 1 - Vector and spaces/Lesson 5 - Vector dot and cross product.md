@@ -13,16 +13,16 @@ Các tính chất:
 - Kết hợp: $(a + b) \cdot c = a \cdot c + b \cdot c$
 ### Bất đẳng thức Cauchy - Schwarz:
 $$
-\\vec{}{x} \cdot \overrightarrow{y}  \le | \overrightarrow{x} \cdot \overrightarrow{y}| \le ||\overrightarrow{x}|| \cdot ||\overrightarrow{y}||
+\vec{x} \cdot \vec{y}  \le | \vec{x} \cdot \vec{y}| \le ||\vec{x}|| \cdot ||\vec{y}||
 $$
 Phát biểu: Giá trị tích vô hướng của 2 vector luôn bé hơn hoặc bằng tích độ dài 2 vector đó
 Dấu "=" xảy ra khi 2 vector cùng phương (collinear):
 $$
-\overrightarrow{x} = c \overrightarrow{y}
+\vec{x} = c \vec{y}
 $$
 ### Bất đẳng thức tam giác
 $$
-|\overrightarrow{x} + \overrightarrow{y}| \le ||\overrightarrow{x}|| + ||\overrightarrow{y}||
+|\vec{x} + \vec{y}| \le ||\vec{x}|| + ||\vec{y}||
 $$
 Dấu "=" xảy ra khi 2 vector cùng phương
 
