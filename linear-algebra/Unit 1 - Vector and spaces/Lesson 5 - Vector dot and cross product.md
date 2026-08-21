@@ -39,8 +39,9 @@ $$
 $$
 suy ra:
 $$
--1 \le fr
+-1 \le \frac{\vec{a} \cdot \vec{b}}{||\vec{a}|| ||\vec{b}||} \leq 1
 $$
+Nên ta có thể định nghĩa nó là $\cos t$
 Cho 2 vector $\vec{a}, \vec{b} \in \mathbb{R}^n$, khác 0. Góc giữa 2 vector được tính bằng:
 $$
 \cos(\theta) = \frac{\vec{a} \cdot \vec{b}}{||\vec{a}|| \cdot ||\vec{b}||}
