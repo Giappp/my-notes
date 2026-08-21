@@ -15,7 +15,8 @@ $$
 Các tính chất:
 - Giao hoán: $\vec{a} \cdot \vec{b} = \vec{b} \cdot \vec{a}$ 
 - Phân phối: $(\vec{a} + \vec{b}) \cdot \vec{c} = \vec{a} \cdot \vec{c} + \vec{b} \cdot \vec{c}$
-- $(\vec{c}a)$
+- $(c \vec{a}) \cdot \vec{b} = c(\vec{a} \cdot \vec{b})$
+
 ### Bất đẳng thức Cauchy - Schwarz:
 $$
 \vec{x} \cdot \vec{y}  \le | \vec{x} \cdot \vec{y}| \le ||\vec{x}|| \cdot ||\vec{y}||
