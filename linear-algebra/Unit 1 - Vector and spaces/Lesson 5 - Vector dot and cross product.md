@@ -9,12 +9,12 @@ $$
 $$
 Do đó:
 $$
-||\vec{a}|| = 
+||\vec{a}|| = \sqrt{ \vec{a} \cdot \vec{a} }
 $$
 
 Các tính chất:
-- Giao hoán: $a \cdot b = b \cdot a$ 
-- Kết hợp: $(a + b) \cdot c = a \cdot c + b \cdot c$
+- Giao hoán: $\vec{a} \cdot \vec{b} = \vec{b} \cdot \vec{a}$ 
+- Phân phối: $(\vec{a} + \vec{b}) \cdot v = a \cdot c + b \cdot c$
 ### Bất đẳng thức Cauchy - Schwarz:
 $$
 \vec{x} \cdot \vec{y}  \le | \vec{x} \cdot \vec{y}| \le ||\vec{x}|| \cdot ||\vec{y}||
