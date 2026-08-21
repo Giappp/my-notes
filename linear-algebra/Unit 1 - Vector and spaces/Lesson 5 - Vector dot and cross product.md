@@ -41,13 +41,13 @@ suy ra:
 $$
 -1 \le \frac{\vec{a} \cdot \vec{b}}{||\vec{a}|| ||\vec{b}||} \leq 1
 $$
-Nên ta có thể định nghĩa nó là $\cos t$
+Nên ta có thể định nghĩa nó là $\cos \theta$ 
 Cho 2 vector $\vec{a}, \vec{b} \in \mathbb{R}^n$, khác 0. Góc giữa 2 vector được tính bằng:
 $$
 \cos(\theta) = \frac{\vec{a} \cdot \vec{b}}{||\vec{a}|| \cdot ||\vec{b}||}
 $$
 
-## 3. Defining a plane in $R^3$ with a point and normal vector
+## 3. Defining a plane in with a point and normal vector
 Cho $\vec{a} = {a_1, a_{2}, \dots a_{n}}$ bất kì và 1 vector $\vec{n}$ ta có thể viết phương trình siêu phẳng chứa điểm $\vec{a}$ và vuông góc với $\vec{n}$.  Bằng cách: Lấy 1 vector $\vec{x}$ bất kì thuộc siêu phẳng đặt là $\vec{x} = x_{1}, x_{2}, \dots x_{n}$ ta có vector nằm trọn trong siêu phẳng đó là $\vec{x} - \vec{a}$, mà $\vec{n}$ vuông góc với siêu phẳng đó -> nó vuông góc với mọi vector thuộc siêu phẳng, Nên:
 $$
 \vec{n} \perp (\vec{x} - \vec{a}) \to \vec{n} \cdot (\vec{x} - \vec{a}) = 0
