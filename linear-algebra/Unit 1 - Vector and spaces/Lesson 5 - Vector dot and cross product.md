@@ -33,7 +33,14 @@ $$
 Dấu "=" xảy ra khi 2 vector cùng phương hoặc một trong hai là vector 0
 
 ## 2. Defining the angle between vectors
-Từ Cauchy - Sch
+Từ Cauchy - Schwarz:
+$$
+|\vec{a} \cdot \vec{b}| \le ||\vec{a}|| \cdot ||\vec{b}||
+$$
+suy ra:
+$$
+-1 \le fr
+$$
 Cho 2 vector $\vec{a}, \vec{b} \in \mathbb{R}^n$, khác 0. Góc giữa 2 vector được tính bằng:
 $$
 \cos(\theta) = \frac{\vec{a} \cdot \vec{b}}{||\vec{a}|| \cdot ||\vec{b}||}
