@@ -31,4 +31,5 @@ Cho 2 vector $\vec{a}, \vec{b} \in \mathbb{R}^n$, khác 0. Góc giữa 2 vector 
 $$
 \cos(\theta) = \frac{\vec{a} \cdot \vec{b}}{||\vec{a}|| \cdot ||\vec{b}||}
 $$
-## 3. Defining a plane in $R^3$ with a point and 
+## 3. Defining a plane in $R^3$ with a point and normal vector
+Cho $\vec{a} = {a_{1,a}}$ 
