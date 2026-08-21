@@ -32,4 +32,4 @@ $$
 \cos(\theta) = \frac{\vec{a} \cdot \vec{b}}{||\vec{a}|| \cdot ||\vec{b}||}
 $$
 ## 3. Defining a plane in $R^3$ with a point and normal vector
-Cho $\vec{a} = {a_1, a_{2}, \dots a_{n}}$ bất kì và 1 vector $\vec{n}$ ta có thể viết phương trình siêu phẳng 
+Cho $\vec{a} = {a_1, a_{2}, \dots a_{n}}$ bất kì và 1 vector $\vec{n}$ ta có thể viết phương trình siêu phẳng chứa điểm $\vec{a}$ và vuông góc với $\vec{n}$.  Bằng cách:  
