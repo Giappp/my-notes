@@ -76,3 +76,7 @@ $$
 |\vec{a} \times \vec{b}| = |\vec{a}||\vec{b}|\sin \theta
 $$
 Dot Product:
+$$
+\vec{a} \cdot \vec{b} = |\vec{a}||\vec{b}|\cos \theta
+$$
+Dot product là hình chiếu của 
