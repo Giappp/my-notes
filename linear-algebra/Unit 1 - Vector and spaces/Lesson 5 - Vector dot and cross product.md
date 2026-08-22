@@ -55,7 +55,7 @@ Cho $\vec{a} = {a_1, a_{2}, \dots a_{n}}$ bất kì và 1 vector $\vec{n}$ ta c�
 $$
 \vec{n} \perp (\vec{x} - \vec{a}) \to \vec{n} \cdot (\vec{x} - \vec{a}) = 0
 $$
-## 4. Cross Product in $\mathbb{R|^3$ 
+## 4. Cross Product in $\mathbb{R}^3$ 
 Cho vector: $\vec{a} = \begin{bmatrix}a_{1} \\  a_{2} \\  a_{3}\end{bmatrix}$. $\vec{b} = \begin{bmatrix}b_{1} \\  b_{2} \\  b_{3}\end{bmatrix}$
 Cross product của 2 vector được định nghĩa:
 $$
