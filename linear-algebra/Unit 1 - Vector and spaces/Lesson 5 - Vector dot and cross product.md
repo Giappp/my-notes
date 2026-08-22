@@ -57,7 +57,7 @@ $$
 $$
 ## 4. Cross Product in $\mathbb{R}^3$ 
 Cho vector: $\vec{a} = \begin{bmatrix}a_{1} \\  a_{2} \\  a_{3}\end{bmatrix}$. $\vec{b} = \begin{bmatrix}b_{1} \\  b_{2} \\  b_{3}\end{bmatrix}$
-Cross product của 2 vector được định nghĩa:
+Cross product của 2 vector $\vec{a}, \vec{b}$ được định nghĩa:
 $$
 \vec{a} \times \vec{b} = \begin{bmatrix}
 a_{2}\times b_{3} - a_{3}\times b_{2} \\
@@ -68,7 +68,7 @@ $$
 Cross product của hai vector $\vec a$ và $\vec b$ là một vector vuông góc với cả $\vec a$ và $\vec b$.
 
 Tính chất: 
-####  Cross product của 2 vector là 1 vector vuông góc với cả 2 vector còn lại, Tức:
+Cross product của hai vector $\vec a$ và $\vec b$ là một vector vuông góc với cả $\vec a$ và $\vec b$.
 $$
        \vec{a} \times \vec{b} \perp \vec{a} \ \ \text{và} \ \ 
        \vec{a} \times \vec{b} \perp \vec{b} 
