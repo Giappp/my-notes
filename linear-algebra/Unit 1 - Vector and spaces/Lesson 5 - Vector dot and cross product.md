@@ -72,12 +72,13 @@ $$
        \vec{a} \times \vec{b} \perp \vec{a} 
 $$
 #### Liên hệ với dot product:
+Cross Product:
 $$
-||\vec{a} \times \vec{b}|| = ||\vec{a}||cdot||\vec{b}||\sin \theta
+||\vec{a} \times \vec{b}|| = ||\vec{a}||\cdot||\vec{b}||\sin \theta
 $$
 Dot Product:
 $$
-\vec{a} \cdot \vec{b} = |\vec{a}||\vec{b}|\cos \theta
+\vec{a} \cdot \vec{b} = ||\vec{a}||\cdot||\vec{b}||\cos \theta
 $$
-Dot product đo mức độ tương đồng của 2 vector bằng cách chiếu vector này lên vector còn lại.
-Cross product đo mức độ vuông góc của 2 vector
+- Dot product đo mức độ tương đồng của 2 vector bằng cách chiếu vector này lên vector còn lại.
+- Độ dài vector Cross product đo mức độ vuông góc giữa 2 vector a và b.
