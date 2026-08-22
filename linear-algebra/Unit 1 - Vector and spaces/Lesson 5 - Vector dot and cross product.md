@@ -73,4 +73,5 @@ $$
 $$
 2. Liên hệ với dot product:
 $$
-
+|\vec{a} \times \vec{b}| = |\vec{a}||\vec{b}|\sin \theta
+$$
