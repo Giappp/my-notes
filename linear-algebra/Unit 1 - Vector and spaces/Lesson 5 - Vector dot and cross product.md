@@ -73,7 +73,7 @@ $$
 $$
 #### Liên hệ với dot product:
 $$
-|\vec{a} \times \vec{b}| = |\vec{a}||\vec{b}|\sin \theta
+||\vec{a} \times \vec{b}|| = ||\vec{a}||cdot||\vec{b}||\sin \theta
 $$
 Dot Product:
 $$
