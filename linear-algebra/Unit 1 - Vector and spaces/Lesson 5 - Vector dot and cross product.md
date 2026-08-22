@@ -83,5 +83,4 @@ Dot Product:
 $$
 \vec{a} \cdot \vec{b} = ||\vec{a}||\cdot||\vec{b}||\cos \theta
 $$
-- Dot product đo mức độ tương đồng của 2 vector bằng cách chiếu vector này lên vector còn lại.
-- Độ dài vector Cross product đo mức độ vuông góc giữa 2 vector a và b.
+Dot product lấy "phần song song" thông qua $\cos\theta$, còn cross product lấy "phần vuông góc" thông qua $\sin\theta$.
