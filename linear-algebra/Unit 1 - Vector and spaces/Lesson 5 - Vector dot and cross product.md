@@ -56,11 +56,11 @@ $$
 \vec{n} \perp (\vec{x} - \vec{a}) \to \vec{n} \cdot (\vec{x} - \vec{a}) = 0
 $$
 ## 4. Cross Product
-Cho vector: $\vec{a} = \begin{bmatrix}a_{1} \\  a_{2} \\  a_{3}\end{bmatrix}$ 
+Cho vector: $\vec{a} = \begin{bmatrix}a_{1} \\  a_{2} \\  a_{3}\end{bmatrix}$. $\vec{b} = \begin{bmatrix}b_{1} \\  b_{2} \\  b_{3}\end{bmatrix}$
 Cross product của 2 vector được định nghĩa:
 $$
-\vec{a} \times \vec{b} = \begin{matrix}
-a_{2} \times b_{3} \\
+\vec{a} \times \vec{b} = \begin{bmatrix}
+a_{1}\times b_{3} - a_{3}\times b_{1} \\
 
-\end{matrix}
+\end{bmatrix}
 $$
