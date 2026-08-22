@@ -65,9 +65,12 @@ a_{3}\times b_{1} - a_{1}\times b_{3} \\
 a_{1}\times b_{2} - a_{2} \times b_{1}
 \end{bmatrix}
 $$
-Tính chất: Cross product của 2 vector là 1 vector vuông góc với cả 2 vector còn lại, Tức:
+Tính chất: 
+1. Cross product của 2 vector là 1 vector vuông góc với cả 2 vector còn lại, Tức:
 $$
        \vec{a} \times \vec{b} \perp \vec{a}, \
        \vec{a} \times \vec{b} \perp \vec{a} 
+$$
+2. Liên hệ với dot product:
 $$
 
