@@ -79,4 +79,5 @@ Dot Product:
 $$
 \vec{a} \cdot \vec{b} = |\vec{a}||\vec{b}|\cos \theta
 $$
-Dot product là hình chiếu của 
+Dot product đo mức độ tương đồng của 2 vector bằng cách chiếu vector này lên vector còn lại.
+Cross product đo mức độ vuông góc của 2 vector
