@@ -70,8 +70,8 @@ Cross product của hai vector $\vec a$ và $\vec b$ là một vector vuông gó
 Tính chất: 
 ####  Cross product của 2 vector là 1 vector vuông góc với cả 2 vector còn lại, Tức:
 $$
-       \vec{a} \times \vec{b} \perp \vec{a}, \
-       \vec{a} \times \vec{b} \perp \vec{a} 
+       \vec{a} \times \vec{b} \perp \vec{a} \ \ \text{và} \ \ 
+       \vec{a} \times \vec{b} \perp \vec{b} 
 $$
 #### Liên hệ với dot product:
 Cross Product:
