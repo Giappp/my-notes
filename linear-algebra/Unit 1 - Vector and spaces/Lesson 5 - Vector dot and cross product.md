@@ -77,6 +77,7 @@ $$
 Cross Product:
 $$
 ||\vec{a} \times \vec{b}|| = ||\vec{a}||\cdot||\vec{b}||\sin \theta
+
 $$
 Dot Product:
 $$
