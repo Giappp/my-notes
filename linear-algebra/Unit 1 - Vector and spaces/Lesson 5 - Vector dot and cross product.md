@@ -60,7 +60,7 @@ Cho vector: $\vec{a} = [a_{1}, a_{2}, a_{3}]^T, \vec{b} = [b_{1}, b_{2}, b_{3}]^
 Cross product của 2 vector được định nghĩa:
 $$
 \vec{a} \times \vec{b} = \begin{matrix}
-[a_{2} \times b_{3}] \\
+a_{2} \times b_{3} \\
 
 \end{matrix}
 $$
