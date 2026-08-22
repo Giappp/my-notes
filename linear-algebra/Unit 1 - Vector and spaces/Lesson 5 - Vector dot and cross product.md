@@ -56,7 +56,7 @@ $$
 \vec{n} \perp (\vec{x} - \vec{a}) \to \vec{n} \cdot (\vec{x} - \vec{a}) = 0
 $$
 ## 4. Cross Product
-Cho vector: $\vec{a} = [a_{1}, a_{2}, a_{3}]^T, \vec{b} = [b_{1}, b_{2}, b_{3}]^T$
+Cho vector: $\vec{a} = \begin{bmatrix}a_{1} \\  a_{2} \\  a_{3}\end{bmatrix}$ 
 Cross product của 2 vector được định nghĩa:
 $$
 \vec{a} \times \vec{b} = \begin{matrix}
